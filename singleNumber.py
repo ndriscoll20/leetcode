@@ -14,6 +14,6 @@ class Solution(object):
 
 obj = Solution()
 
-nums = [1]
+nums = [123]
 
 print(obj.singleNumber(nums))
